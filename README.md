@@ -16,7 +16,7 @@ Maak voor 1 van de nieuwsitems een detailpagina waar het volledige artikel leesb
 Zorg dat je website responsive is. Je website moet minstens 3 verschillende schermgroottes (mobile, tablet, desktop) ondersteunen. De website moet er op elke schermgrootte goed uitzien en functioneel zijn.
 
 ## Deployment
-Plaats je website online. Zorg dat deze minsten online blijft tot januari. Je kan je website online plaatsen met behulp van combell (hosting door de school aangeboden), github pages of eigen hosting.
+Plaats je website online. Zorg dat deze minstens tot januari online blijft staan.  Je kan je website online plaatsen met behulp van combell (hosting door de school aangeboden), github pages of eigen hosting.
 
 ## Aandachtspunten
 * Zorg ervoor dat je html en css code w3C validated is.
