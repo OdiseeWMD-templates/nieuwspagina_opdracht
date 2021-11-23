@@ -28,8 +28,13 @@ Plaats je website online. Zorg dat deze minstens tot januari online blijft staan
 * Zorg dat alle links op alle pagina's werken. Je kan dit controleren met behulp van w3c. Hoewel je slechts 2 pagina's moet maken zorg ervoor dat alle links functioneel zijn. Dit mag eventueel naar een dummie of foutpagina.
  
 ## Afspraken
-* Schrijf alle code zelf (maak dus geen gebruik van frameworks)
+* Schrijf alle code zelf
+  * Geen code van het internet
+  * Geen frameworks of libraries
+  * Geen gegenereerde code
+  * Geen code van medestudenten
+  * ...
 * Respecteer de deadline => Te laat ingediend resulteert in een 0 score voor deze taak
 * Werk individueel! Dit is een individuele opdracht. Elke vorm van samenwerken wordt beschouwd als fraude.
 ## Deadline
-28/10/2021 09:00
+Zie Toledo
